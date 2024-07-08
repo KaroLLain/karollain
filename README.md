@@ -1,4 +1,4 @@
-<img src="githubHeader.png">
+<img src="github_hello.png">
 
 **KaroLLain/karollain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
