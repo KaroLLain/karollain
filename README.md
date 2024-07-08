@@ -1,4 +1,4 @@
-<img src="guthubHeader.png" alt="alt">
+<img src="guthubHeader.png" width="200" height="100">
 
 **KaroLLain/karollain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
